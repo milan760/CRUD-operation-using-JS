@@ -1,0 +1,10 @@
+body {
+    color: white;
+    background-color: #1d2630;
+}
+
+.container {
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    width: 60vw;
+}
